@@ -20,5 +20,4 @@ Education
  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
 * Reviewer of [ACL2020](https://acl2020.org)
