@@ -11,6 +11,8 @@ redirect_from:
 
 2020
 ======
+* \[C7\] Chenguang Zhu, William Hinthorn, Ruochen Xu, **Qingkai Zeng**, Michael Zeng, Xuedong Huang, Meng Jiang, Boosting Factual Correctness of Abstractive Summarization with Knowledge Graph, arXiv preprint arXiv: 2004.02016, 2020. \[[Pdf](/papers/C7_BoostingFactual_2020.pdf)\]
+
 * \[C6\] Wenhao Yu, Lingfei Wu, **Qingkai Zeng**, Shu Tao, Yu Deng, Meng Jiang, Crossing Variational Autoencoders for Answer Retrieval, In Proceeding of Annual Conference of the Association for Computational Linguistics (**ACL**), 2020. (To Appear)
 
 * \[C5\] Wenhao Yu, Wei Peng, Yu Shu, **Qingkai Zeng**, Meng Jiang, Experimental Evidence Extraction System in Data Science with Hybrid Table Features and Ensemble Learning, In Proceeding of International World Wide Web Conference (**WWW**), 2020. (Oral) \[[Pdf](/papers/C2_WWW_2020.pdf)\]
@@ -22,9 +24,9 @@ redirect_from:
 2019
 ======
 
-* \[W2\] Qingkai Zeng, Mengxia Yu, **Wenhao Yu**, Jinjun Xiong, Yiyu Shi, Meng Jiang, Faceted Hierarchy: A New Graph Type to Organize Scientific Concepts and a Construction Method, In the Workshop on Graph-Based Natural Language Processing (TextGraphs) at Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2019. \[[PDF](/papers/W1_TextGraph_2019.pdf)\] \[[Code](/papers/W1_TextGraph_2019.pdf)\]
+* \[W2\] **Qingkai Zeng**, Mengxia Yu, Wenhao Yu, Jinjun Xiong, Yiyu Shi, Meng Jiang, Faceted Hierarchy: A New Graph Type to Organize Scientific Concepts and a Construction Method, In the Workshop on Graph-Based Natural Language Processing (TextGraphs) at Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2019. \[[PDF](/papers/W1_TextGraph_2019.pdf)\] \[[Code](/papers/W1_TextGraph_2019.pdf)\]
 
-* \[C4\] Daniel (Yue) Zhang, Bo Ni, Qiyu Zhi, Thomas Plummer, Qi Li, Hao Zheng, Qingkai Zeng, Yang Zhang, Dong Wang, Through the eyes of a poet: classical poetry recommendation with visual input on social media, In Proceedings of the 2019 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (**ASONAM**), 2019.
+* \[C4\] Daniel (Yue) Zhang, Bo Ni, Qiyu Zhi, Thomas Plummer, Qi Li, Hao Zheng, **Qingkai Zeng**, Yang Zhang, Dong Wang, Through the eyes of a poet: classical poetry recommendation with visual input on social media, In Proceedings of the 2019 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (**ASONAM**), 2019.
 
 
 * \[C3\] Wenhao Yu, Zongze Li, **Qingkai Zeng**, Meng Jiang, Tablepedia: Automating PDF Table Reading in an Experimental Evidence Exploration and Analytic System, In Proceeding of International World Wide Web Conference (**WWW**), 2019. (Demo) \[[PDF](/papers/C1_WWW_2019.pdf)\] \[[Demo](https://vimeo.com/310162310)\]
