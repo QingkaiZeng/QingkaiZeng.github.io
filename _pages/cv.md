@@ -21,3 +21,4 @@ Education
 Service and leadership
 ======
 * Reviewer of [ACL2020](https://acl2020.org)
+* PC Member of [CIKM2020](https://cikm2020.org)
