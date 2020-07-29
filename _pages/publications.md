@@ -11,6 +11,12 @@ redirect_from:
 
 2020
 ======
+* \[C8\] Yalin Liu, Jinfeng Lin, **Qingkai Zeng**, Meng Jiang, Jane Cleland-Huang, Towards Semantically Guided Traceability, in Proceedings of IEEE International Requirements Engineering Conference (RE), August 2020. (RE@NEXT! track) \[[Pdf]()\]
+
+* \[J3\] Daheng Wang, **Qingkai Zeng**, Nitesh Chawla, Meng Jiang, Modeling Complementarity in Behavior Data with Multi-Type Itemset Embedding, ACM Transaction on Intelligent Systems and Technology. \[[Pdf]()\]
+
+* \[J2\] Meng Jiang, Brooke A. Ammerman, **Qingkai Zeng**, Ross Jacobucci, Alex Brodersen, Phrase-level Pairwise Topic Modeling to Uncover Helpful Peer Responses to Online Suicidal Crises, Humanities & Social Sciences Communications (formerly known as Nature Palgrave Communications). \[[Pdf](/papers/J2_suicide_nature_2020.pdf)\]
+
 * \[C7\] Chenguang Zhu, William Hinthorn, Ruochen Xu, **Qingkai Zeng**, Michael Zeng, Xuedong Huang, Meng Jiang, Boosting Factual Correctness of Abstractive Summarization with Knowledge Graph, arXiv preprint arXiv: 2004.02016, 2020. \[[Pdf](/papers/C7_BoostingFactual_2020.pdf)\]
 
 * \[C6\] Wenhao Yu, Lingfei Wu, **Qingkai Zeng**, Shu Tao, Yu Deng, Meng Jiang, Crossing Variational Autoencoders for Answer Retrieval, In Proceeding of Annual Conference of the Association for Computational Linguistics (**ACL**), 2020. (To Appear)
