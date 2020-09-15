@@ -17,7 +17,7 @@ Research Interest
 
 What's New
 ======
-
+* \[September 2020\] Two paper was accepted by [The EMNLP 2020](https://2020.emnlp.org).
 * \[April 2020\] One paper was accepted by [The ACL 2020](https://acl2020.org/).
 * \[January 2020\] One papers with oral presentation were accepted by [The WebConf 2020](https://www2020.thewebconf.org/). 
 * \[December 2019\] One paper was accepted by [RCQA 2020 Workshop](https://rcqa-ws.github.io/) in [AAAI 2020](https://aaai.org/Conferences/AAAI-20/).
@@ -26,6 +26,10 @@ What's New
 
 Recent Publications
 ======
+
+* Wenhao Yu, Lingfei Wu, Yu Deng, Ruchi Mahindru, **Qingkai Zeng**, Sinem Guven, Meng Jiang, A Technical Question Answering System with Transfer Learning, Findings of Empirical Methods on Natural Language Processing (EMNLP), 2020. (demo)  \[[Pdf]()\]
+
+* **Qingkai Zeng**, Wenhao Yu, Mengxia Yu, Tianwen Jiang, Tim Weninger, Meng Jiang, Tri-Train: Automatic Pre-fine Tuning between Pre-training and Fine-tune Training for SciNER, Findings of Empirical Methods on Natural Language Processing (EMNLP), 2020. \[[Pdf]()\]
 
 * Wenhao Yu, Lingfei Wu, **Qingkai Zeng**, Shu Tao, Yu Deng, Meng Jiang, Crossing Variational Autoencoders for Answer Retrieval, In Proceeding of Annual Conference of the Association for Computational Linguistics (**ACL**), 2020. (To Appear)
 
