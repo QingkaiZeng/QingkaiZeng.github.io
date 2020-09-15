@@ -11,6 +11,10 @@ redirect_from:
 
 2020
 ======
+* \[C10\] Wenhao Yu, Lingfei Wu, Yu Deng, Ruchi Mahindru, **Qingkai Zeng**, Sinem Guven, Meng Jiang, A Technical Question Answering System with Transfer Learning, Findings of Empirical Methods on Natural Language Processing (EMNLP), 2020. (demo)  \[[Pdf]()\]
+
+* \[C9\] **Qingkai Zeng**, Wenhao Yu, Mengxia Yu, Tianwen Jiang, Tim Weninger, Meng Jiang, Tri-Train: Automatic Pre-fine Tuning between Pre-training and Fine-tune Training for SciNER, Findings of Empirical Methods on Natural Language Processing (EMNLP), 2020. \[[Pdf]()\]
+
 * \[C8\] Yalin Liu, Jinfeng Lin, **Qingkai Zeng**, Meng Jiang, Jane Cleland-Huang, Towards Semantically Guided Traceability, in Proceedings of IEEE International Requirements Engineering Conference (RE), August 2020. (RE@NEXT! track) \[[Pdf]()\]
 
 * \[J3\] Daheng Wang, **Qingkai Zeng**, Nitesh Chawla, Meng Jiang, Modeling Complementarity in Behavior Data with Multi-Type Itemset Embedding, ACM Transaction on Intelligent Systems and Technology. \[[Pdf]()\]
