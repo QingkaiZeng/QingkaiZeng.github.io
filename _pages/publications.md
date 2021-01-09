@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+2021
+======
+* \[C11\] Jinfeng Lin, Yalin Liu, **Qingkai Zeng**, Meng Jiang, Jane Cleland-Huang, Traceability Transformed: Generating More Accurate Links with Pre-Trained BERT Models, in Proceeding of IEEE/ACM International Conference on Software Engineering ICSE), 2021. \[[Pdf]()\]
+
 2020
 ======
 * \[C10\] Wenhao Yu, Lingfei Wu, Yu Deng, Ruchi Mahindru, **Qingkai Zeng**, Sinem Guven, Meng Jiang, A Technical Question Answering System with Transfer Learning, Findings of Empirical Methods on Natural Language Processing (EMNLP), 2020. (demo)  \[[Pdf]()\]
