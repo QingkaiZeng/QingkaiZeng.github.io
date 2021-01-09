@@ -11,19 +11,19 @@ redirect_from:
 
 2021
 ======
-* \[C11\] Jinfeng Lin, Yalin Liu, **Qingkai Zeng**, Meng Jiang, Jane Cleland-Huang, Traceability Transformed: Generating More Accurate Links with Pre-Trained BERT Models, in Proceeding of IEEE/ACM International Conference on Software Engineering ICSE), 2021. \[[Pdf]()\]
+* \[C11\] Jinfeng Lin, Yalin Liu, **Qingkai Zeng**, Meng Jiang, Jane Cleland-Huang, Traceability Transformed: Generating More Accurate Links with Pre-Trained BERT Models, in Proceeding of IEEE/ACM International Conference on Software Engineering (**ICSE**), 2021. \[[Pdf]()\]
 
 2020
 ======
-* \[C10\] Wenhao Yu, Lingfei Wu, Yu Deng, Ruchi Mahindru, **Qingkai Zeng**, Sinem Guven, Meng Jiang, A Technical Question Answering System with Transfer Learning, Findings of Empirical Methods on Natural Language Processing (EMNLP), 2020. (demo)  \[[Pdf]()\]
+* \[C10\] Wenhao Yu, Lingfei Wu, Yu Deng, Ruchi Mahindru, **Qingkai Zeng**, Sinem Guven, Meng Jiang, A Technical Question Answering System with Transfer Learning, Findings of Empirical Methods on Natural Language Processing (**EMNLP**), 2020. (demo)  \[[Pdf]()\]
 
-* \[C9\] **Qingkai Zeng**, Wenhao Yu, Mengxia Yu, Tianwen Jiang, Tim Weninger, Meng Jiang, Tri-Train: Automatic Pre-fine Tuning between Pre-training and Fine-tune Training for SciNER, Findings of Empirical Methods on Natural Language Processing (EMNLP), 2020. \[[Pdf]()\]
+* \[C9\] **Qingkai Zeng**, Wenhao Yu, Mengxia Yu, Tianwen Jiang, Tim Weninger, Meng Jiang, Tri-Train: Automatic Pre-fine Tuning between Pre-training and Fine-tune Training for SciNER, Findings of Empirical Methods on Natural Language Processing (**EMNLP**), 2020. \[[Pdf]()\]
 
-* \[C8\] Yalin Liu, Jinfeng Lin, **Qingkai Zeng**, Meng Jiang, Jane Cleland-Huang, Towards Semantically Guided Traceability, in Proceedings of IEEE International Requirements Engineering Conference (RE), August 2020. (RE@NEXT! track) \[[Pdf]()\]
+* \[C8\] Yalin Liu, Jinfeng Lin, **Qingkai Zeng**, Meng Jiang, Jane Cleland-Huang, Towards Semantically Guided Traceability, in Proceedings of IEEE International Requirements Engineering Conference (**RE**), August 2020. (RE@NEXT! track) \[[Pdf]()\]
 
-* \[J3\] Daheng Wang, **Qingkai Zeng**, Nitesh Chawla, Meng Jiang, Modeling Complementarity in Behavior Data with Multi-Type Itemset Embedding, ACM Transaction on Intelligent Systems and Technology. \[[Pdf]()\]
+* \[J3\] Daheng Wang, **Qingkai Zeng**, Nitesh Chawla, Meng Jiang, Modeling Complementarity in Behavior Data with Multi-Type Itemset Embedding, ACM Transaction on Intelligent Systems and Technology (**TIST**). \[[Pdf]()\]
 
-* \[J2\] Meng Jiang, Brooke A. Ammerman, **Qingkai Zeng**, Ross Jacobucci, Alex Brodersen, Phrase-level Pairwise Topic Modeling to Uncover Helpful Peer Responses to Online Suicidal Crises, Humanities & Social Sciences Communications (formerly known as Nature Palgrave Communications). \[[Pdf](/papers/J2_suicide_nature_2020.pdf)\]
+* \[J2\] Meng Jiang, Brooke A. Ammerman, **Qingkai Zeng**, Ross Jacobucci, Alex Brodersen, Phrase-level Pairwise Topic Modeling to Uncover Helpful Peer Responses to Online Suicidal Crises, Humanities & Social Sciences Communications (formerly known as **Nature Palgrave Communications**). \[[Pdf](/papers/J2_suicide_nature_2020.pdf)\]
 
 * \[C7\] Chenguang Zhu, William Hinthorn, Ruochen Xu, **Qingkai Zeng**, Michael Zeng, Xuedong Huang, Meng Jiang, Boosting Factual Correctness of Abstractive Summarization with Knowledge Graph, arXiv preprint arXiv: 2004.02016, 2020. \[[Pdf](/papers/C7_BoostingFactual_2020.pdf)\]
 
@@ -33,7 +33,7 @@ redirect_from:
 
 * \[W3\] Wenhao Yu, Lingfei Wu, Shu Tao, Yu Deng, **Qingkai Zeng**, Meng Jiang, Generating Helpful Responses for Intelligent Tech Support, In the Workshop on Reasoning for Complex QA (RCQA) in conjunction at AAAI Conference on Artificial Intelligence (**AAAI**), 2020.  \[[Pdf](/papers/W2_RCQA_2020.pdf)\]
 
-* \[J1\] Tianwen Jiang, **Qingkai Zeng**, Tong Zhao, Bing Qin, Ting Liu, Nitesh Chawla, Meng Jiang, Biomedical Knowledge Graphs Construction from Conditional Statements. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2020. \[[PDF]()\]
+* \[J1\] Tianwen Jiang, **Qingkai Zeng**, Tong Zhao, Bing Qin, Ting Liu, Nitesh Chawla, Meng Jiang, Biomedical Knowledge Graphs Construction from Conditional Statements. IEEE/ACM Transactions on Computational Biology and Bioinformatics (**TCBB**), 2020. \[[PDF]()\]
 
 2019
 ======
