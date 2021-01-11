@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd-year Ph.D. student in Computer Science and Engineering at the [University of Notre Dame](https://cse.nd.edu), advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). Before that, I received my Master degree of ECE department at [UIUC](https://ece.illinois.edu).
+I am a 4th-year Ph.D. student in Computer Science and Engineering at the [University of Notre Dame](https://cse.nd.edu), advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). Before that, I received my Master degree of ECE department at [UIUC](https://ece.illinois.edu).
 
 Research Interest
 ======
