@@ -11,21 +11,21 @@ redirect_from:
 
 2021
 ======
-* \[C11\] Jinfeng Lin, Yalin Liu, **Qingkai Zeng**, Meng Jiang, Jane Cleland-Huang, Traceability Transformed: Generating More Accurate Links with Pre-Trained BERT Models, in Proceeding of IEEE/ACM International Conference on Software Engineering (**ICSE**), 2021. \[[Pdf]()\]
+* \[C11\] Chenguang Zhu, William Hinthorn, Ruochen Xu, **Qingkai Zeng**, Michael Zeng, Xuedong Huang, Meng Jiang, Boosting Factual Correctness of Abstractive Summarization with Knowledge Graph,  In Proceedings of North American Chapter of the Association for Computational Linguistics (**NAACL**), 2021 . \[[Pdf](/papers/C7_BoostingFactual_2020.pdf)\]
+
+* \[C10\] Jinfeng Lin, Yalin Liu, **Qingkai Zeng**, Meng Jiang, Jane Cleland-Huang, Traceability Transformed: Generating More Accurate Links with Pre-Trained BERT Models, in Proceeding of IEEE/ACM International Conference on Software Engineering (**ICSE**), 2021. \[[Pdf]()\]
 
 2020
 ======
-* \[C10\] Wenhao Yu, Lingfei Wu, Yu Deng, Ruchi Mahindru, **Qingkai Zeng**, Sinem Guven, Meng Jiang, A Technical Question Answering System with Transfer Learning, Findings of Empirical Methods on Natural Language Processing (**EMNLP**), 2020. (demo)  \[[Pdf]()\]
+* \[C9\] Wenhao Yu, Lingfei Wu, Yu Deng, Ruchi Mahindru, **Qingkai Zeng**, Sinem Guven, Meng Jiang, A Technical Question Answering System with Transfer Learning, Proceedings of Empirical Methods on Natural Language Processing (**EMNLP**), 2020. (demo)  \[[Pdf]()\]
 
-* \[C9\] **Qingkai Zeng**, Wenhao Yu, Mengxia Yu, Tianwen Jiang, Tim Weninger, Meng Jiang, Tri-Train: Automatic Pre-fine Tuning between Pre-training and Fine-tune Training for SciNER, Findings of Empirical Methods on Natural Language Processing (**EMNLP**), 2020. \[[Pdf]()\]
+* \[C8\] **Qingkai Zeng**, Wenhao Yu, Mengxia Yu, Tianwen Jiang, Tim Weninger, Meng Jiang, Tri-Train: Automatic Pre-fine Tuning between Pre-training and Fine-tune Training for SciNER, Findings of Empirical Methods on Natural Language Processing (**EMNLP**), 2020. \[[Pdf]()\]
 
-* \[C8\] Yalin Liu, Jinfeng Lin, **Qingkai Zeng**, Meng Jiang, Jane Cleland-Huang, Towards Semantically Guided Traceability, in Proceedings of IEEE International Requirements Engineering Conference (**RE**), August 2020. (RE@NEXT! track) \[[Pdf]()\]
+* \[C7\] Yalin Liu, Jinfeng Lin, **Qingkai Zeng**, Meng Jiang, Jane Cleland-Huang, Towards Semantically Guided Traceability, in Proceedings of IEEE International Requirements Engineering Conference (**RE**), August 2020. (RE@NEXT! track) \[[Pdf]()\]
 
 * \[J3\] Daheng Wang, **Qingkai Zeng**, Nitesh Chawla, Meng Jiang, Modeling Complementarity in Behavior Data with Multi-Type Itemset Embedding, ACM Transaction on Intelligent Systems and Technology (**TIST**). \[[Pdf]()\]
 
 * \[J2\] Meng Jiang, Brooke A. Ammerman, **Qingkai Zeng**, Ross Jacobucci, Alex Brodersen, Phrase-level Pairwise Topic Modeling to Uncover Helpful Peer Responses to Online Suicidal Crises, Humanities & Social Sciences Communications (formerly known as **Nature Palgrave Communications**). \[[Pdf](/papers/J2_suicide_nature_2020.pdf)\]
-
-* \[C7\] Chenguang Zhu, William Hinthorn, Ruochen Xu, **Qingkai Zeng**, Michael Zeng, Xuedong Huang, Meng Jiang, Boosting Factual Correctness of Abstractive Summarization with Knowledge Graph, arXiv preprint arXiv: 2004.02016, 2020. \[[Pdf](/papers/C7_BoostingFactual_2020.pdf)\]
 
 * \[C6\] Wenhao Yu, Lingfei Wu, **Qingkai Zeng**, Shu Tao, Yu Deng, Meng Jiang, Crossing Variational Autoencoders for Answer Retrieval, In Proceeding of Annual Conference of the Association for Computational Linguistics (**ACL**), 2020. (To Appear)
 
