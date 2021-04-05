@@ -22,4 +22,4 @@ Service and leadership
 ======
 * Invited Reviewer of Transactions on Knowledge Discovery from Data [TKDD](https://tkdd.acm.org)
 * Reviewer of [ACL2020](https://acl2020.org)
-* PC Member of [CIKM2020](https://cikm2020.org), [IJCAI2021](https://ijcai-21.org)
+* PC Member of [CIKM2020](https://cikm2020.org), [IJCAI2021](https://ijcai-21.org), [EMNLP2021](https://2021.emnlp.org)
