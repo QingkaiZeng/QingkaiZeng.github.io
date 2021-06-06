@@ -11,6 +11,10 @@ redirect_from:
 
 2021
 ======
+* \[C13\] **Qingkai Zeng**, Jinfeng Lin, Wenhao Yu, Jane Cleland-Huang, Meng Jiang, Enhancing Taxonomy Completion with Concept Generation via Fusing Relational Representations,  In Proceedings of the ACM SIGKDD international conference on Knowledge discovery and data mining (**KDD**), 2021 . \[[Pdf]()\]
+
+* \[C12\] Wenhao Yu, Lingfei Wu, **Qingkai Zeng**, Yu Deng, Ruchi Mahindru, Sinem Guven, Meng Jiang, Technical Question Answering across Tasks and Domains,  In Proceedings of North American Chapter of the Association for Computational Linguistics (**NAACL**), 2021 . \[[Pdf]()\]
+
 * \[C11\] Chenguang Zhu, William Hinthorn, Ruochen Xu, **Qingkai Zeng**, Michael Zeng, Xuedong Huang, Meng Jiang, Boosting Factual Correctness of Abstractive Summarization with Knowledge Graph,  In Proceedings of North American Chapter of the Association for Computational Linguistics (**NAACL**), 2021 . \[[Pdf](/papers/C7_BoostingFactual_2020.pdf)\]
 
 * \[C10\] Jinfeng Lin, Yalin Liu, **Qingkai Zeng**, Meng Jiang, Jane Cleland-Huang, Traceability Transformed: Generating More Accurate Links with Pre-Trained BERT Models, in Proceeding of IEEE/ACM International Conference on Software Engineering (**ICSE**), 2021. \[[Pdf]()\]
