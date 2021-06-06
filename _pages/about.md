@@ -17,26 +17,30 @@ Research Interest
 
 What's New
 ======
+* \[May 2021\] One paper was accept by [The KDD 2021](https://www.kdd.org/kdd2021/).
+* \[May 2021\] Our ICSE 2021 paper was selected for an ACM SIGSOFT Distinguished Paper Award!
+* \[April 2020\] Two paper was accept by [The NAACL 2021](https://2021.naacl.org).
 * \[September 2020\] Two paper was accepted by [The EMNLP 2020](https://2020.emnlp.org).
 * \[April 2020\] One paper was accepted by [The ACL 2020](https://acl2020.org/).
-* \[January 2020\] One papers with oral presentation were accepted by [The WebConf 2020](https://www2020.thewebconf.org/). 
-* \[December 2019\] One paper was accepted by [RCQA 2020 Workshop](https://rcqa-ws.github.io/) in [AAAI 2020](https://aaai.org/Conferences/AAAI-20/).
-* \[January 2019\] One paper was accepted by [The WebConf 2019](https://www2019.thewebconf.org/).
+<!-- * \[January 2020\] One papers with oral presentation were accepted by [The WebConf 2020](https://www2020.thewebconf.org/).  -->
+<!-- * \[December 2019\] One paper was accepted by [RCQA 2020 Workshop](https://rcqa-ws.github.io/) in [AAAI 2020](https://aaai.org/Conferences/AAAI-20/).
+* \[January 2019\] One paper was accepted by [The WebConf 2019](https://www2019.thewebconf.org/). -->
 
 
 Recent Publications
 ======
 
-* Wenhao Yu, Lingfei Wu, Yu Deng, Ruchi Mahindru, **Qingkai Zeng**, Sinem Guven, Meng Jiang, A Technical Question Answering System with Transfer Learning, Findings of Empirical Methods on Natural Language Processing (EMNLP), 2020. (demo)  \[[Pdf]()\]
+* **Qingkai Zeng**, Jinfeng Lin, Wenhao Yu, Jane Cleland-Huang, Meng Jiang, Enhancing Taxonomy Completion with Concept Generation via Fusing Relational Representations,  In Proceedings of the ACM SIGKDD international conference on Knowledge discovery and data mining (**KDD**), 2021 . \[[Pdf]()\]
 
 * **Qingkai Zeng**, Wenhao Yu, Mengxia Yu, Tianwen Jiang, Tim Weninger, Meng Jiang, Tri-Train: Automatic Pre-fine Tuning between Pre-training and Fine-tune Training for SciNER, Findings of Empirical Methods on Natural Language Processing (EMNLP), 2020. \[[Pdf]()\]
 
-* Wenhao Yu, Lingfei Wu, **Qingkai Zeng**, Shu Tao, Yu Deng, Meng Jiang, Crossing Variational Autoencoders for Answer Retrieval, In Proceeding of Annual Conference of the Association for Computational Linguistics (**ACL**), 2020. (To Appear)
-
-* Wenhao Yu, Wei Peng, Yu Shu, **Qingkai Zeng**, Meng Jiang, Experimental Evidence Extraction System in Data Science with Hybrid Table Features and Ensemble Learning, In Proceeding of International World Wide Web Conference (**WWW**), 2020. (oral presentation, to appear.) \[[Pdf](/papers/C2_WWW_2020.pdf)\]
-
 * **Qingkai Zeng**, Mengxia Yu, Wenhao Yu, Jinjun Xiong, Yiyu Shi, Meng Jiang, Faceted Hierarchy: A New Graph Type to Organize Scientific Concepts and a Construction Method, In the Workshop on Graph-Based Natural Language Processing (TextGraphs) at Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2019. \[[Pdf](/papers/W1_TextGraph_2019.pdf)\]
 
+* Jinfeng Lin, Yalin Liu, **Qingkai Zeng**, Meng Jiang, Jane Cleland-Huang, Traceability Transformed: Generating More Accurate Links with Pre-Trained BERT Models, in Proceeding of IEEE/ACM International Conference on Software Engineering (**ICSE**), 2021. \[[Pdf]()\] (**ACM SIGSOFT Distinguished Paper Award**)
+*
+*  Wenhao Yu, Lingfei Wu, **Qingkai Zeng**, Yu Deng, Ruchi Mahindru, Sinem Guven, Meng Jiang, Technical Question Answering across Tasks and Domains,  In Proceedings of North American Chapter of the Association for Computational Linguistics (**NAACL**), 2021 . \[[Pdf]()\]
+
+* Chenguang Zhu, William Hinthorn, Ruochen Xu, **Qingkai Zeng**, Michael Zeng, Xuedong Huang, Meng Jiang, Boosting Factual Correctness of Abstractive Summarization with Knowledge Graph,  In Proceedings of North American Chapter of the Association for Computational Linguistics (**NAACL**), 2021 . \[[Pdf](/papers/C7_BoostingFactual_2020.pdf)\]
 
 Contact
 ======
