@@ -18,7 +18,7 @@ Research Interest
 What's New
 ======
 * \[May 2021\] One paper was accept by [The KDD 2021](https://www.kdd.org/kdd2021/).
-* \[May 2021\] Our ICSE 2021 paper was selected for an ACM SIGSOFT Distinguished Paper Award!
+* \[May 2021\] Our [ICSE 2021](https://conf.researchr.org/home/icse-2021) paper was selected for an ACM SIGSOFT Distinguished Paper Award!
 * \[April 2020\] Two paper was accept by [The NAACL 2021](https://2021.naacl.org).
 * \[September 2020\] Two paper was accepted by [The EMNLP 2020](https://2020.emnlp.org).
 * \[April 2020\] One paper was accepted by [The ACL 2020](https://acl2020.org/).
