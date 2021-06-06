@@ -17,7 +17,7 @@ redirect_from:
 
 * \[C11\] Chenguang Zhu, William Hinthorn, Ruochen Xu, **Qingkai Zeng**, Michael Zeng, Xuedong Huang, Meng Jiang, Boosting Factual Correctness of Abstractive Summarization with Knowledge Graph,  In Proceedings of North American Chapter of the Association for Computational Linguistics (**NAACL**), 2021 . \[[Pdf](/papers/C7_BoostingFactual_2020.pdf)\]
 
-* \[C10\] Jinfeng Lin, Yalin Liu, **Qingkai Zeng**, Meng Jiang, Jane Cleland-Huang, Traceability Transformed: Generating More Accurate Links with Pre-Trained BERT Models, in Proceeding of IEEE/ACM International Conference on Software Engineering (**ICSE**), 2021. \[[Pdf]()\] (<font color=#FF0000>**ACM SIGSOFT Distinguished Paper Award**</font>)
+* \[C10\] Jinfeng Lin, Yalin Liu, **Qingkai Zeng**, Meng Jiang, Jane Cleland-Huang, Traceability Transformed: Generating More Accurate Links with Pre-Trained BERT Models, in Proceeding of IEEE/ACM International Conference on Software Engineering (**ICSE**), 2021. \[[Pdf]()\] (**ACM SIGSOFT Distinguished Paper Award**)
 
 2020
 ======
