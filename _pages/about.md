@@ -22,9 +22,6 @@ What's New
 * \[April 2020\] Two paper was accept by [The NAACL 2021](https://2021.naacl.org).
 * \[September 2020\] Two paper was accepted by [The EMNLP 2020](https://2020.emnlp.org).
 * \[April 2020\] One paper was accepted by [The ACL 2020](https://acl2020.org/).
-<!-- * \[January 2020\] One papers with oral presentation were accepted by [The WebConf 2020](https://www2020.thewebconf.org/).  -->
-<!-- * \[December 2019\] One paper was accepted by [RCQA 2020 Workshop](https://rcqa-ws.github.io/) in [AAAI 2020](https://aaai.org/Conferences/AAAI-20/).
-* \[January 2019\] One paper was accepted by [The WebConf 2019](https://www2019.thewebconf.org/). -->
 
 
 Recent Publications
@@ -32,7 +29,7 @@ Recent Publications
 
 * **Qingkai Zeng**, Jinfeng Lin, Wenhao Yu, Jane Cleland-Huang, Meng Jiang, Enhancing Taxonomy Completion with Concept Generation via Fusing Relational Representations,  In Proceedings of the ACM SIGKDD international conference on Knowledge discovery and data mining (**KDD**), 2021 . \[[Pdf]()\]
 
-* **Qingkai Zeng**, Wenhao Yu, Mengxia Yu, Tianwen Jiang, Tim Weninger, Meng Jiang, Tri-Train: Automatic Pre-fine Tuning between Pre-training and Fine-tune Training for SciNER, Findings of Empirical Methods on Natural Language Processing (EMNLP), 2020. \[[Pdf]()\]
+* **Qingkai Zeng**, Wenhao Yu, Mengxia Yu, Tianwen Jiang, Tim Weninger, Meng Jiang, Tri-Train: Automatic Pre-fine Tuning between Pre-training and Fine-tune Training for SciNER, Findings of Empirical Methods on Natural Language Processing (**EMNLP**), 2020. \[[Pdf]()\]
 
 * **Qingkai Zeng**, Mengxia Yu, Wenhao Yu, Jinjun Xiong, Yiyu Shi, Meng Jiang, Faceted Hierarchy: A New Graph Type to Organize Scientific Concepts and a Construction Method, In the Workshop on Graph-Based Natural Language Processing (TextGraphs) at Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2019. \[[Pdf](/papers/W1_TextGraph_2019.pdf)\]
 
