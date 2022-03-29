@@ -13,6 +13,9 @@ redirect_from:
 ======
 * \[C13\] **Qingkai Zeng**, Jinfeng Lin, Wenhao Yu, Jane Cleland-Huang, Meng Jiang, Enhancing Taxonomy Completion with Concept Generation via Fusing Relational Representations,  In Proceedings of the ACM SIGKDD international conference on Knowledge discovery and data mining (**KDD**), 2021 . \[[Pdf]()\]
 
+* \[W4\] **Qingkai Zeng**, Mengxia Yu, Wenhai Yu, Tianwen Jiang, Meng Jiang, Validating Label Consistency in NER Data Annotation, in the Workshop on Evaluation and Comparison of NLP Systems (Eval4NLP) in conjunction with Conference on Empirical
+Methods in Natural Language Processing (**EMNLP** ), 2021 . \[[Pdf]()\]
+
 * \[C12\] Wenhao Yu, Lingfei Wu, **Qingkai Zeng**, Yu Deng, Ruchi Mahindru, Sinem Guven, Meng Jiang, Technical Question Answering across Tasks and Domains,  In Proceedings of North American Chapter of the Association for Computational Linguistics (**NAACL**), 2021 . \[[Pdf]()\]
 
 * \[C11\] Chenguang Zhu, William Hinthorn, Ruochen Xu, **Qingkai Zeng**, Michael Zeng, Xuedong Huang, Meng Jiang, Boosting Factual Correctness of Abstractive Summarization with Knowledge Graph,  In Proceedings of North American Chapter of the Association for Computational Linguistics (**NAACL**), 2021 . \[[Pdf](/papers/C7_BoostingFactual_2020.pdf)\]
