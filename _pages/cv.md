@@ -17,7 +17,13 @@ Education
   * 2016.08 - 2017.12
 * B.S. of Electronic & Computer Engineering, Sun Yat-Sen University
   * 2011.08 - 2015.06
- 
+
+Industry Experience
+======
+* JD.COM Silicon Valley Research Center,Mountain View, California, USA
+  * Research Intern from Jun. 2021 to Sep. 2021
+  * Host: Dr. Lingfei Wu, Dr. Xiaojie Guo
+
 Service and leadership
 ======
 * Invited Reviewer of [TKDD](https://tkdd.acm.org), [TWEB](https://dl.acm.org/journal/tweb)
