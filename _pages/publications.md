@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+2022
+======
+
+* \[C14\] Xiaojie Guo, **Qingkai Zeng**, Meng Jiang, Yun Xiao, Bo Long, Lingfei Wu. Automatic Controllable Product Copywriting for E-Commerce,  In Proceedings of the ACM SIGKDD international conference on Knowledge discovery and data mining (**KDD**), 2022 . \[[Pdf]()\]
+
 2021
 ======
 * \[C13\] **Qingkai Zeng**, Jinfeng Lin, Wenhao Yu, Jane Cleland-Huang, Meng Jiang, Enhancing Taxonomy Completion with Concept Generation via Fusing Relational Representations,  In Proceedings of the ACM SIGKDD international conference on Knowledge discovery and data mining (**KDD**), 2021 . \[[Pdf]()\]
