@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Please kindly find my [Curriculum Vitae](/files/Qingkai_CV.pdf).
+
 Education
 ======
 * Ph.D. of Computer Science and Engineering, University of Notre Dame
