@@ -17,6 +17,7 @@ Research Interest
 
 What's New
 ======
+* \[April 2023\] I am joining Tencent AI Research as a full-time research intern this summer! I will work with Dr. [Linfeng Song](https://freesunshine0316.github.io/) and Dr. [Haitao Mi](https://scholar.google.com/citations?user=G3OMbFSm858C&hl=en). 
 * \[May 2022\] One paper was accept by [The KDD 2022](https://kdd.org/kdd2022/).
 * \[May 2021\] One paper was accept by [The KDD 2021](https://www.kdd.org/kdd2021/).
 * \[May 2021\] Our [ICSE 2021](https://conf.researchr.org/home/icse-2021) paper was selected for an ACM SIGSOFT Distinguished Paper Award!
