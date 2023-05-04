@@ -22,6 +22,9 @@ Education
 
 Industry Experience
 ======
+* Tencent AI Lab, Bellvalue, Washington, USA
+  *  Research Intern from May 2023 to Aug. 2023
+  *  Host: Dr. Linfeng Song, Dr. Haitao Mi 
 * JD.COM Silicon Valley Research Center,Mountain View, California, USA
   * Research Intern from Jun. 2021 to Sep. 2021
   * Host: Dr. Lingfei Wu, Dr. Xiaojie Guo
