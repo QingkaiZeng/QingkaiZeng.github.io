@@ -8,20 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th-year Ph.D. student in Computer Science and Engineering at the [University of Notre Dame](https://cse.nd.edu), advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). Before that, I received my Master degree of ECE department at [UIUC](https://ece.illinois.edu).
+I am a 5th-year Ph.D. student in Computer Science and Engineering at the [University of Notre Dame](https://cse.nd.edu), advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). Before that, I received my Master degree of ECE department at [UIUC](https://ece.illinois.edu).
 
 Research Interest
 ======
-* Information Extraction
+* Knowledge Graph
 * Natural Language Processing
+* Large Language Models
 
 What's New
 ======
+* \[October 2023\] One paper was accepted by [The EMNLP 2023](https://2023.emnlp.org/).
 * \[April 2023\] I am joining Tencent AI Research as a full-time research intern this summer! I will work with Dr. [Linfeng Song](https://freesunshine0316.github.io/) and Dr. [Haitao Mi](https://scholar.google.com/citations?user=G3OMbFSm858C&hl=en). 
-* \[May 2022\] One paper was accept by [The KDD 2022](https://kdd.org/kdd2022/).
-* \[May 2021\] One paper was accept by [The KDD 2021](https://www.kdd.org/kdd2021/).
+* \[May 2022\] One paper was accepted by [The KDD 2022](https://kdd.org/kdd2022/).
+* \[May 2021\] One paper was accepted by [The KDD 2021](https://www.kdd.org/kdd2021/).
 * \[May 2021\] Our [ICSE 2021](https://conf.researchr.org/home/icse-2021) paper was selected for an ACM SIGSOFT Distinguished Paper Award!
-* \[April 2020\] Two paper was accept by [The NAACL 2021](https://2021.naacl.org).
+* \[April 2020\] Two paper was accepted by [The NAACL 2021](https://2021.naacl.org).
 * \[September 2020\] Two paper was accepted by [The EMNLP 2020](https://2020.emnlp.org).
 * \[April 2020\] One paper was accepted by [The ACL 2020](https://acl2020.org/).
 
