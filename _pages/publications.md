@@ -9,6 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+2023
+======
+
+* \[W5\] **Qingkai Zeng**, Zhihan Zhang, Jinfeng Lin, Meng Jiang. Completing Taxonomies with Relation-Aware Mutual Attentions, In the Workshop on Mining and Learning with Graphs (**MLG**) in conjunction with the ACM SIGKDD international conference on Knowledge discovery and data mining (**KDD**), 2023. \[[Pdf]()\]
+
+* [C16] Zhihan Zhang, Shuohang Wang, Wenhao Yu, Yichong Xu, Dan Iter, **Qingkai Zeng**, Yang Liu, Chenguang Zhu, Meng Jiang. Auto-Instruct: Automatic Instruction Generation and Ranking for Black-Box Language Models, In Findings of the 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2023. \[[Pdf]()\]
+* 
+* [C15] Zhenwen Liang, Dian Yu, Xiaoman Pan, Wenlin Yao, **Qingkai Zeng**, Xiangliang Zhang, Dong Yu. MinT: Boosting Generalization in Mathematical Reasoning via Multi-View Fine-Tuning, arXiv preprint arXiv:2307.07951 (2023). \[[Pdf]()\]
+
+
 2022
 ======
 
