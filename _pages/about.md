@@ -10,6 +10,9 @@ redirect_from:
 
 I am a 5th-year Ph.D. student in Computer Science and Engineering at the [University of Notre Dame](https://cse.nd.edu), advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). Before that, I received my Master degree of ECE department at [UIUC](https://ece.illinois.edu).
 
+**<span style="color:red;">I am actively seeking industrial R&D opportunities, as well as Postdoctoral positions, beginning in 2024. I am happy to engage in discussions regarding potential opportunities!</span>**
+
+
 Research Interest
 ======
 * Knowledge Graph
