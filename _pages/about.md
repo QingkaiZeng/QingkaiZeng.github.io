@@ -52,5 +52,4 @@ Contact
 * Office: 355 Fitzpatrick Hall of Engineering
 * Location: University of Notre Dame, Notre Dame, IN 46565
 
-<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=m&d=FuSGlaDDeSKr7GVQlb2C7DIXoOpnUVLDvwTxcFAjKeQ&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353"></script>
-
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=150&t=tt&d=FuSGlaDDeSKr7GVQlb2C7DIXoOpnUVLDvwTxcFAjKeQ'></script>
