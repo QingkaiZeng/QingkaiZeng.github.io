@@ -21,31 +21,34 @@ Research Interest
 
 What's New
 ======
-* \[February 2024\] Three papers about (1) Taxonomy Induction via prompting LLMs ([Chain-of-Layer](https://arxiv.org/pdf/2402.07386.pdf)) (2) personalized LLMs ([OPPU](https://arxiv.org/pdf/2402.04401.pdf)) (3) Entity Linking via levearging LLMs ([EntGPT](https://arxiv.org/pdf/2402.06738.pdf))  are available on Arxiv now! 
+* \[February 2024\] Three papers about (1) Taxonomy Induction via prompting LLMs ([Chain-of-Layer](https://arxiv.org/pdf/2402.07386.pdf)) (2) personalized LLMs ([OPPU](https://arxiv.org/pdf/2402.04401.pdf)) (3) Entity Linking via levearging LLMs ([EntGPT](https://arxiv.org/pdf/2402.06738.pdf)) are available on Arxiv now! 
 * \[October 2023\] One paper was accepted by [The EMNLP 2023](https://2023.emnlp.org/).
-* \[April 2023\] I am joining Tencent AI Research as a full-time research intern this summer! I will work with Dr. [Linfeng Song](https://freesunshine0316.github.io/) and Dr. [Haitao Mi](https://scholar.google.com/citations?user=G3OMbFSm858C&hl=en). 
+* \[April 2023\] I am joining Tencent AI Lab as a full-time research intern this summer! I will work with Dr. [Linfeng Song](https://freesunshine0316.github.io/) and Dr. [Haitao Mi](https://scholar.google.com/citations?user=G3OMbFSm858C&hl=en). 
 * \[May 2022\] One paper was accepted by [The KDD 2022](https://kdd.org/kdd2022/).
 * \[May 2021\] One paper was accepted by [The KDD 2021](https://www.kdd.org/kdd2021/).
 * \[May 2021\] Our [ICSE 2021](https://conf.researchr.org/home/icse-2021) paper was selected for an ACM SIGSOFT Distinguished Paper Award!
-* \[April 2020\] Two paper was accepted by [The NAACL 2021](https://2021.naacl.org).
-* \[September 2020\] Two paper was accepted by [The EMNLP 2020](https://2020.emnlp.org).
-* \[April 2020\] One paper was accepted by [The ACL 2020](https://acl2020.org/).
 
 
 Recent Publications
 ======
 
-* **Qingkai Zeng**, Jinfeng Lin, Wenhao Yu, Jane Cleland-Huang, Meng Jiang, Enhancing Taxonomy Completion with Concept Generation via Fusing Relational Representations,  In Proceedings of the ACM SIGKDD international conference on Knowledge discovery and data mining (**KDD**), 2021 . \[[Pdf]()\]
+* **Qingkai Zeng**, Yuyang Bai, Zhaoxuan Tan, Shangbin Feng, Zhenwen Liang, Zhihan Zhang, Meng Jiang. Chain-of-Layer: Iteratively Prompting Large Language Models for Taxonomy Induction from Limited Examples, arXiv preprint arXiv:2402.07386 (2024). \[[PDF](https://arxiv.org/pdf/2402.07386.pdf)\]
+  
+* **Qingkai Zeng**, Zhihan Zhang, Jinfeng Lin, Meng Jiang. Completing Taxonomies with Relation-Aware Mutual Attentions, In the Workshop on Mining and Learning with Graphs (**MLG**) in conjunction with the ACM SIGKDD international conference on Knowledge discovery and data mining (**KDD**), 2023. \[[PDF](https://www.mlgworkshop.org/2023/papers/MLG__KDD_2023_paper_10.pdf)\]
 
-* **Qingkai Zeng**, Wenhao Yu, Mengxia Yu, Tianwen Jiang, Tim Weninger, Meng Jiang, Tri-Train: Automatic Pre-fine Tuning between Pre-training and Fine-tune Training for SciNER, Findings of Empirical Methods on Natural Language Processing (**EMNLP**), 2020. \[[Pdf]()\]
+* **Qingkai Zeng**, Jinfeng Lin, Wenhao Yu, Jane Cleland-Huang, Meng Jiang, Enhancing Taxonomy Completion with Concept Generation via Fusing Relational Representations,  In Proceedings of the ACM SIGKDD international conference on Knowledge discovery and data mining (**KDD**), 2021 . \[[PDF](https://dl.acm.org/doi/pdf/10.1145/3447548.3467308)\]
 
-* **Qingkai Zeng**, Mengxia Yu, Wenhao Yu, Jinjun Xiong, Yiyu Shi, Meng Jiang, Faceted Hierarchy: A New Graph Type to Organize Scientific Concepts and a Construction Method, In the Workshop on Graph-Based Natural Language Processing (TextGraphs) at Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2019. \[[Pdf](/papers/W1_TextGraph_2019.pdf)\]
+* **Qingkai Zeng**, Wenhao Yu, Mengxia Yu, Tianwen Jiang, Tim Weninger, Meng Jiang, Tri-Train: Automatic Pre-fine Tuning between Pre-training and Fine-tune Training for SciNER, Findings of Empirical Methods on Natural Language Processing (**EMNLP**), 2020. \[[PDF](https://aclanthology.org/2020.findings-emnlp.429.pdf)\]
 
-* Jinfeng Lin, Yalin Liu, **Qingkai Zeng**, Meng Jiang, Jane Cleland-Huang, Traceability Transformed: Generating More Accurate Links with Pre-Trained BERT Models, in Proceeding of IEEE/ACM International Conference on Software Engineering (**ICSE**), 2021. \[[Pdf]()\] (**ACM SIGSOFT Distinguished Paper Award**)
-*
-*  Wenhao Yu, Lingfei Wu, **Qingkai Zeng**, Yu Deng, Ruchi Mahindru, Sinem Guven, Meng Jiang, Technical Question Answering across Tasks and Domains,  In Proceedings of North American Chapter of the Association for Computational Linguistics (**NAACL**), 2021 . \[[Pdf]()\]
+* **Qingkai Zeng**, Mengxia Yu, Wenhao Yu, Jinjun Xiong, Yiyu Shi, Meng Jiang, Faceted Hierarchy: A New Graph Type to Organize Scientific Concepts and a Construction Method, In the Workshop on Graph-Based Natural Language Processing (TextGraphs) at Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2019. \[[PDF](/papers/W1_TextGraph_2019.pdf)\]
+  
+* Zhaoxuan Tan, **Qingkai Zeng**, Yijun Tian, Zheyuan Liu, Bin Yin, Meng Jiang. Democratizing Large Language Models via Personalized Parameter-Efficient Fine-tuning, arXiv preprint arXiv:2402.04401 (2024). \[[PDF](https://arxiv.org/pdf/2402.04401.pdf)\]
+  
+* Yifan Ding, Amrit Poudel, **Qingkai Zeng**, Tim Weninger, Balaji Veeramani, Sanmitra Bhattacharya. EntGPT: Linking Generative Large Language Models with Knowledge Bases, arXiv preprint arXiv:2402.06738 (2024). \[[PDF](https://arxiv.org/pdf/2402.06738.pdf)\]
 
-* Chenguang Zhu, William Hinthorn, Ruochen Xu, **Qingkai Zeng**, Michael Zeng, Xuedong Huang, Meng Jiang, Boosting Factual Correctness of Abstractive Summarization with Knowledge Graph,  In Proceedings of North American Chapter of the Association for Computational Linguistics (**NAACL**), 2021 . \[[Pdf](/papers/C7_BoostingFactual_2020.pdf)\]
+* Jinfeng Lin, Yalin Liu, **Qingkai Zeng**, Meng Jiang, Jane Cleland-Huang, Traceability Transformed: Generating More Accurate Links with Pre-Trained BERT Models, in Proceeding of IEEE/ACM International Conference on Software Engineering (**ICSE**), 2021. \[[PDF](https://arxiv.org/pdf/2102.04411.pdf)\] (**<span style="color:red;">ACM SIGSOFT Distinguished Paper Award</span>**)
+
+* Chenguang Zhu, William Hinthorn, Ruochen Xu, **Qingkai Zeng**, Michael Zeng, Xuedong Huang, Meng Jiang, Boosting Factual Correctness of Abstractive Summarization with Knowledge Graph,  In Proceedings of North American Chapter of the Association for Computational Linguistics (**NAACL**), 2021 . \[[PDF](/papers/C7_BoostingFactual_2020.pdf)\]
 
 Contact
 ======
