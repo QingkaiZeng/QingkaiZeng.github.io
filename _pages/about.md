@@ -21,6 +21,7 @@ Research Interest
 
 What's New
 ======
+* \[February 2024\] Three papers about (1) Taxonomy Induction via prompting LLMs ([Chain-of-Layer](https://arxiv.org/pdf/2402.07386.pdf)) (2) personalized LLMs ([OPPU](https://arxiv.org/pdf/2402.04401.pdf)) (3) Entity Linking via levearging LLMs ([EntGPT](https://arxiv.org/pdf/2402.06738.pdf))  are available on Arxiv now! 
 * \[October 2023\] One paper was accepted by [The EMNLP 2023](https://2023.emnlp.org/).
 * \[April 2023\] I am joining Tencent AI Research as a full-time research intern this summer! I will work with Dr. [Linfeng Song](https://freesunshine0316.github.io/) and Dr. [Haitao Mi](https://scholar.google.com/citations?user=G3OMbFSm858C&hl=en). 
 * \[May 2022\] One paper was accepted by [The KDD 2022](https://kdd.org/kdd2022/).
