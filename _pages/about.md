@@ -21,6 +21,7 @@ Research Interest
 
 What's New
 ======
+* \[March 2024\] The [code](https://github.com/QingkaiZeng/Chain-of-Layer) of [Chain-of-Layer](https://arxiv.org/pdf/2402.07386.pdf) is available now. Feel free to generate your own taxonomy!
 * \[February 2024\] Two papers about (1) Entity Linking via leveraging LLMs ([ChatEL (Coming Soon)]()) (2) Mathematical Reasoning ([MinT](https://arxiv.org/pdf/2307.07951.pdf)) were accepted by [LREC-COLING 2024](https://lrec-coling-2024.org/). Huge congrats to [Yifan Ding](https://scholar.google.com/citations?user=WMegVFUAAAAJ&hl=en) and [Zhenwen Liang](https://zhenwen-nlp.github.io/)!
 * \[February 2024\] Three papers about (1) Taxonomy Induction via prompting LLMs ([Chain-of-Layer](https://arxiv.org/pdf/2402.07386.pdf)) (2) personalized LLMs ([OPPU](https://arxiv.org/pdf/2402.04401.pdf)) (3) Entity Linking via leveraging LLMs ([EntGPT](https://arxiv.org/pdf/2402.06738.pdf)) are available on Arxiv now! 
 * \[October 2023\] One paper was accepted by [The EMNLP 2023](https://2023.emnlp.org/).
@@ -33,7 +34,7 @@ What's New
 Recent Publications
 ======
 
-* **Qingkai Zeng**, Yuyang Bai, Zhaoxuan Tan, Shangbin Feng, Zhenwen Liang, Zhihan Zhang, Meng Jiang. Chain-of-Layer: Iteratively Prompting Large Language Models for Taxonomy Induction from Limited Examples, arXiv preprint arXiv:2402.07386 (2024). \[[PDF](https://arxiv.org/pdf/2402.07386.pdf)\]
+* **Qingkai Zeng**, Yuyang Bai, Zhaoxuan Tan, Shangbin Feng, Zhenwen Liang, Zhihan Zhang, Meng Jiang. Chain-of-Layer: Iteratively Prompting Large Language Models for Taxonomy Induction from Limited Examples, arXiv preprint arXiv:2402.07386 (2024). \[[PDF](https://arxiv.org/pdf/2402.07386.pdf)\] \[[Code](https://arxiv.org/pdf/2402.07386.pdf)\]
   
 * **Qingkai Zeng**, Zhihan Zhang, Jinfeng Lin, Meng Jiang. Completing Taxonomies with Relation-Aware Mutual Attentions, In the Workshop on Mining and Learning with Graphs (**MLG**) in conjunction with the ACM SIGKDD international conference on Knowledge discovery and data mining (**KDD**), 2023. \[[PDF](https://www.mlgworkshop.org/2023/papers/MLG__KDD_2023_paper_10.pdf)\]
 
