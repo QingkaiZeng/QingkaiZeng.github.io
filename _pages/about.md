@@ -59,3 +59,5 @@ Contact
 * Location: University of Notre Dame, Notre Dame, IN 46565
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=150&t=tt&d=FuSGlaDDeSKr7GVQlb2C7DIXoOpnUVLDvwTxcFAjKeQ'></script>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=kEZn9_SbA7ubXcpAQCCRQtlCn12JapFLcBzO8lEGt7g"></script>
+
