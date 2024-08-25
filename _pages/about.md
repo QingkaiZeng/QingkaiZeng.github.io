@@ -22,7 +22,7 @@ Research Interest
 What's New
 ======
 * \[August 2024\] The [code](https://github.com/QingkaiZeng/CodeTaxo-Pub) of [CodeTaxo](https://www.arxiv.org/pdf/2408.09070) is available now. Feel free to generate your own taxonomy!
-* \[August 2024\] Two papers about (1) Taxonomy Expansion via Code Prompting ([CodeTaxo](https://www.arxiv.org/pdf/2408.09070)) (2) Curruiculum Learning ([PUDF](https://arxiv.org/pdf/2408.05326)) are available on Arxiv now! 
+* \[August 2024\] Three papers about (1) Taxonomy Expansion via Code Prompting ([CodeTaxo](https://www.arxiv.org/pdf/2408.09070)) (2) Mathematical Reasoning ([ProCo](https://arxiv.org/pdf/2405.14092)) (3) Curruiculum Learning ([PUDF](https://arxiv.org/pdf/2408.05326)) are available on Arxiv now! 
 * \[July 2024\] [Chain-of-Layer](https://arxiv.org/pdf/2402.07386.pdf) was accepted by [The CIKM 2024](https://cikm2024.org/). The [code](https://github.com/QingkaiZeng/Chain-of-Layer) of [Chain-of-Layer](https://arxiv.org/pdf/2402.07386.pdf) is available now. Feel free to generate your own taxonomy!
 * \[February 2024\] Two papers about (1) Entity Linking via leveraging LLMs ([ChatEL (Coming Soon)]()) (2) Mathematical Reasoning ([MinT](https://arxiv.org/pdf/2307.07951.pdf)) were accepted by [LREC-COLING 2024](https://lrec-coling-2024.org/). Huge congrats to [Yifan Ding](https://scholar.google.com/citations?user=WMegVFUAAAAJ&hl=en) and [Zhenwen Liang](https://zhenwen-nlp.github.io/)!
 * \[February 2024\] Three papers about (1) Taxonomy Induction via prompting LLMs ([Chain-of-Layer](https://arxiv.org/pdf/2402.07386.pdf)) (2) personalized LLMs ([OPPU](https://arxiv.org/pdf/2402.04401.pdf)) (3) Entity Linking via leveraging LLMs ([EntGPT](https://arxiv.org/pdf/2402.06738.pdf)) are available on Arxiv now! 
@@ -51,8 +51,6 @@ Examples via Code Language Prompts, arXiv preprint 	arXiv:2408.09070 (2024). \[[
   
 * Zhaoxuan Tan, **Qingkai Zeng**, Yijun Tian, Zheyuan Liu, Bin Yin, Meng Jiang. Democratizing Large Language Models via Personalized Parameter-Efficient Fine-tuning, arXiv preprint arXiv:2402.04401 (2024). \[[PDF](https://arxiv.org/pdf/2402.04401.pdf)\]
   
-* Yifan Ding, Amrit Poudel, **Qingkai Zeng**, Tim Weninger, Balaji Veeramani, Sanmitra Bhattacharya. EntGPT: Linking Generative Large Language Models with Knowledge Bases, arXiv preprint arXiv:2402.06738 (2024). \[[PDF](https://arxiv.org/pdf/2402.06738.pdf)\]
-
 * Jinfeng Lin, Yalin Liu, **Qingkai Zeng**, Meng Jiang, Jane Cleland-Huang, Traceability Transformed: Generating More Accurate Links with Pre-Trained BERT Models, in Proceeding of IEEE/ACM International Conference on Software Engineering (**ICSE**), 2021. \[[PDF](https://arxiv.org/pdf/2102.04411.pdf)\] (**<span style="color:red;">ACM SIGSOFT Distinguished Paper Award</span>**)
 
 * Chenguang Zhu, William Hinthorn, Ruochen Xu, **Qingkai Zeng**, Michael Zeng, Xuedong Huang, Meng Jiang, Boosting Factual Correctness of Abstractive Summarization with Knowledge Graph,  In Proceedings of North American Chapter of the Association for Computational Linguistics (**NAACL**), 2021 . \[[PDF](/papers/C7_BoostingFactual_2020.pdf)\]
