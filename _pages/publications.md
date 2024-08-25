@@ -11,9 +11,10 @@ redirect_from:
 
 2024
 ======
+* \[C20\] **Qingkai Zeng**, Yuyang Bai, Zhaoxuan Tan, Zhenyu Wu，Shangbin Feng, Meng Jiang. CodeTaxo: Enhancing Taxonomy Expansion with Limited
+Examples via Code Language Prompts, arXiv preprint 	arXiv:2408.09070 (2024). \[[PDF](https://www.arxiv.org/pdf/2408.09070)\] 
 
-
-* \[C19\] **Qingkai Zeng**, Yuyang Bai, Zhaoxuan Tan, Shangbin Feng, Zhenwen Liang, Zhihan Zhang, Meng Jiang. Chain-of-Layer: Iteratively Prompting Large Language Models for Taxonomy Induction from Limited Examples, arXiv preprint arXiv:2402.07386 (2024). \[[PDF](https://arxiv.org/pdf/2402.07386.pdf)\]
+* \[C19\] **Qingkai Zeng**, Yuyang Bai, Zhaoxuan Tan, Shangbin Feng, Zhenwen Liang, Zhihan Zhang, Meng Jiang. Chain-of-Layer: Iteratively Prompting Large Language Models for Taxonomy Induction from Limited Examples, In Proceedings of the ACM International Conference on Information & Knowledge Management (**CIKM**), 2024. \[[PDF](https://arxiv.org/pdf/2402.07386.pdf)\]
 
 * \[C18\] Zhaoxuan Tan, **Qingkai Zeng**, Yijun Tian, Zheyuan Liu, Bin Yin, Meng Jiang. Democratizing Large Language Models via Personalized Parameter-Efficient Fine-tuning, arXiv preprint arXiv:2402.04401 (2024). \[[PDF](https://arxiv.org/pdf/2402.04401.pdf)\]
 
