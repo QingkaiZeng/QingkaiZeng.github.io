@@ -7,8 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a postdoctoral scientist in Amazon. My primary research interest lies in data mining, natural language processing and machine learning. My current focus include several key areas: NLP with Structural Knowledge, NLP for Science, information retrieval, retrieval-augmented generation, large language model reasoning.  
 
-I am a 5th-year Ph.D. student in Computer Science and Engineering at the [University of Notre Dame](https://cse.nd.edu), advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). Before that, I received my Master degree of ECE department at [UIUC](https://ece.illinois.edu).
+Prior to Amazon, I received my Ph.D. degree in Computer Science and Engineering at the [University of Notre Dame](https://cse.nd.edu), advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). Before that, I received my Master degree of ECE department at [UIUC](https://ece.illinois.edu).
+
 
 **<span style="color:red;">I am actively seeking industrial R&D opportunities, as well as Postdoctoral positions, beginning in 2024. I am happy to engage in discussions regarding potential opportunities!</span>**
 
