@@ -12,7 +12,14 @@ I am a postdoctoral scientist in Amazon. My primary research interest lies in da
 Prior to Amazon, I received my Ph.D. degree in Computer Science and Engineering at the [University of Notre Dame](https://cse.nd.edu), advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). Before that, I received my Master degree of ECE department at [UIUC](https://ece.illinois.edu).
 
 
-**<span style="color:red;">I am actively seeking industrial R&D opportunities, as well as Postdoctoral positions, beginning in 2024. I am happy to engage in discussions regarding potential opportunities!</span>**
+**<span style="color:red;"> My great intern Yuyang Bai is seeking for Ph.D. position in 2025. Please interview this Rock Star! </span>**
+
+Mentoring & Collaborating
+======
+* [Yuyang Bai](https://leopoldwhite.github.io/), XJTU. Our work on taxonomy construction has been published on CIKM 2024.
+* [Zhenyu Wu](https://scholar.google.com/citations?user=5tVLNpYAAAAJ&hl=zh-CN), XJTU. Our work on mathematical reasoning has been published on EMNLP 2024.
+* [Zhaoxuan Tan](https://zhaoxuan.info/), University of Notre Dame. Our work on personalized LLM has been published on EMNLP 2024.
+* [Billy Porter](https://scholar.google.com/citations?user=pmElWfwAAAAJ&hl=en), University of Notre Dame. We work on weakly-supervised text classifcation. Billy is now Researcher in Google.
 
 
 Research Interest
