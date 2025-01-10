@@ -13,18 +13,23 @@ Please kindly find my [Curriculum Vitae](/files/Qingkai_CV.pdf).
 
 Education
 ======
+* Postdoctoral Scientist, Amazon
+  * 2025 - now
 * Ph.D. of Computer Science and Engineering, University of Notre Dame
-  * 2018.01 - Now
+  * 2018 - 2024
 * M.Eng. of Electronic & Computer Engineering, University of Illinois at Urbana-Champaign
-  * 2016.08 - 2017.12
+  * 2016 - 2018
 * B.S. of Electronic & Computer Engineering, Sun Yat-Sen University
-  * 2011.08 - 2015.06
+  * 2011 - 2015
 
 Industry Experience
 ======
+* Amazon, Bellevue, Washington, USA
+  *  Postdoctoral Scientist from Jan. 2025 to now
+  *  Host: Professor. Rui Song
 * Tencent AI Lab, Bellevue, Washington, USA
   *  Research Intern from May 2023 to Aug. 2023
-  *  Host: Dr. Linfeng Song, Dr. Haitao Mi 
+  *  Host: Dr. Linfeng Song, Dr. Dong Yu
 * JD.COM Silicon Valley Research Center,Mountain View, California, USA
   * Research Intern from Jun. 2021 to Sep. 2021
   * Host: Dr. Lingfei Wu, Dr. Xiaojie Guo
