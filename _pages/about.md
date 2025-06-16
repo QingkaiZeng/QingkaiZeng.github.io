@@ -7,10 +7,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoctoral scientist in Amazon. My primary research interest lies in data mining, natural language processing and machine learning. My current focus include several key areas: NLP with Structural Knowledge, NLP for Science, Information Retrieval, Retrieval-Augmented Generation, Large Language Model Reasoning.  
 
-Prior to Amazon, I received my Ph.D. degree in Computer Science and Engineering at the [University of Notre Dame](https://cse.nd.edu), advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). Before that, I received my Master degree of ECE department at [UIUC](https://ece.illinois.edu).
+About Me
+======
+I am an Assitant Professor in the [College of Computer Science](https://cc.nankai.edu.cn/) at the [Nankai University](https://www.nankai.edu.cn/). Prior to joining Nankai University, I spent a rewarding year as a Postdoctoral Scientist at Amazon, where I worked with Professors [Rui Song](https://song-ray.github.io/), [Han Zhao](https://hanzhaoml.github.io/) at UIUC, Prof. Hengrui Cai at UCI and [Sheng Wang](https://homes.cs.washington.edu/~swang/) at the University of Washington on developing large language models for seller-domain tasks. Before that, I received my Ph.D. degree in Computer Science and Engineering at the [University of Notre Dame](https://cse.nd.edu), advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). I also hold a Master’s degree in Electrical and Computer Engineering from [UIUC]([UIUC](https://ece.illinois.edu) and a Bachlor degree from Sun Yat-sen University. 
 
+Research Interest
+======
+My primary research interest lies in data mining, natural language processing and machine learning. Basically, I define myself as an researcher whom mining the structural knowledge from heterogeneous resource data. I aim to use this knowledge as a first principle to enable intelligence systems to generate more accurate, trustworthy and explainable results, ultimately helping to reduce human effort. 
+
+My current focus include several key areas: NLP with Structural Knowledge, NLP for Science, Information Retrieval, Retrieval-Augmented Generation, Large Language Model Reasoning. Below are some keywords that reflect my research interests:
+
+* Structural Knowledge Construction
+* Knowledge-enhanced Reasoning System
+* Trustworthy Large Language Model
 
 Mentoring & Collaborating
 ======
@@ -19,18 +29,14 @@ Mentoring & Collaborating
 * [Mengxia Yu](https://scholar.google.com/citations?user=9d9qJt8AAAAJ&hl=en), University of Notre Dame.  We work on LLM reasoning.
 * [Bolian Li](https://lblaoke.github.io/), Purdue University. We work on LLM alignment.
 * [Yifan Wang](https://cacayaya.github.io/), Purdue University. We work on LLM alignment.
-
 * [Yuyang Bai](https://leopoldwhite.github.io/), XJTU. Our works on taxonomy construction have been published on CIKM 2024 and ACL 2025.
 * [Zhenyu Wu](https://scholar.google.com/citations?user=5tVLNpYAAAAJ&hl=zh-CN), XJTU. Our works on mathematical reasoning have been published on EMNLP 2024 and ACL 2025.
 * [Zhaoxuan Tan](https://zhaoxuan.info/), University of Notre Dame. Our work on personalized LLM has been published on EMNLP 2024.
 * [Billy Porter](https://scholar.google.com/citations?user=pmElWfwAAAAJ&hl=en), University of Notre Dame. We work on weakly-supervised text classifcation. Billy is now Researcher in Google.
 
+My career has been supported and inspired by many role models, including all of my advisors listed above, and many others, including [Prof. Jiawei Han](https://hanj.cs.illinois.edu/), [Prof. Xiangliang Zhang](https://engineering.nd.edu/faculty/xiangliang-zhang/), [Prof. Jane Cleland-Huang](https://engineering.nd.edu/faculty/jane-cleland-huang/), [Prof. David Chiang](https://www3.nd.edu/~dchiang/), [Prof. Mark Allan Hasegawa-Johnson](https://ece.illinois.edu/about/directory/faculty/jhasegaw),  [Dr. Jiaming Shen](https://mickeysjm.github.io/), [Dr. Dong Yu](https://sites.google.com/view/dongyu888/), [Dr. Linfeng Song](https://freesunshine0316.github.io/), [Dr. Lingfei Wu](https://scholar.google.com/citations?user=VYi6qHMAAAAJ&hl=en), [Dr. Xiaojie Guo](https://sites.google.com/view/xiaojie-guo-personal-site).
 
-Research Interest
-======
-* Knowledge Graph
-* Natural Language Processing
-* Large Language Models
+I also hold the deepest respect for [Prof. Thomas Huang](https://ifp-uiuc.github.io/), even though I never had the opportunity to be advised by him or study in his group or classes. His remarkable life and career have deeply inspired me, leading me to reflect thoughtfully on the academic path I hope to pursue and the kind of professor I strive to become.
 
 What's New
 ======
@@ -70,9 +76,9 @@ Examples via Code Language Prompts, arXiv preprint 	arXiv:2408.09070 (2024). \[[
 
 Contact
 ======
-* Email: qzeng \[at\] nd \[dot\] edu
-* Office: 355 Fitzpatrick Hall of Engineering
-* Location: University of Notre Dame, Notre Dame, IN 46565
+* Email: qzengnkcs \[at\] gmail \[dot\] com
+* Office: TBD
+* Location: TBD
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=150&t=tt&d=FuSGlaDDeSKr7GVQlb2C7DIXoOpnUVLDvwTxcFAjKeQ'></script>
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=KUJT2QgVMVLmsoIjFca2050D_72VKBt9CGWpR-obfR0&cl=ffffff&w=a"></script>
