@@ -12,12 +12,16 @@ I am a postdoctoral scientist in Amazon. My primary research interest lies in da
 Prior to Amazon, I received my Ph.D. degree in Computer Science and Engineering at the [University of Notre Dame](https://cse.nd.edu), advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). Before that, I received my Master degree of ECE department at [UIUC](https://ece.illinois.edu).
 
 
-**<span style="color:red;"> My great intern Yuyang Bai is seeking for Ph.D. position in 2025. Please interview this Rock Star! </span>**
-
 Mentoring & Collaborating
 ======
-* [Yuyang Bai](https://leopoldwhite.github.io/), XJTU. Our work on taxonomy construction has been published on CIKM 2024.
-* [Zhenyu Wu](https://scholar.google.com/citations?user=5tVLNpYAAAAJ&hl=zh-CN), XJTU. Our work on mathematical reasoning has been published on EMNLP 2024.
+* [Xianrui Zhong](https://xianruizhong.github.io/), UIUC. We work on RAG with Structural Knowledge.
+* [Zehong Wang](https://zehong-wang.github.io/), University of Notre Dame. We work on Memory Mechanism of LLM.
+* [Mengxia Yu](https://scholar.google.com/citations?user=9d9qJt8AAAAJ&hl=en), University of Notre Dame.  We work on LLM reasoning.
+* [Bolian Li](https://lblaoke.github.io/), Purdue University. We work on LLM alignment.
+* [Yifan Wang](https://cacayaya.github.io/), Purdue University. We work on LLM alignment.
+
+* [Yuyang Bai](https://leopoldwhite.github.io/), XJTU. Our works on taxonomy construction have been published on CIKM 2024 and ACL 2025.
+* [Zhenyu Wu](https://scholar.google.com/citations?user=5tVLNpYAAAAJ&hl=zh-CN), XJTU. Our works on mathematical reasoning have been published on EMNLP 2024 and ACL 2025.
 * [Zhaoxuan Tan](https://zhaoxuan.info/), University of Notre Dame. Our work on personalized LLM has been published on EMNLP 2024.
 * [Billy Porter](https://scholar.google.com/citations?user=pmElWfwAAAAJ&hl=en), University of Notre Dame. We work on weakly-supervised text classifcation. Billy is now Researcher in Google.
 
