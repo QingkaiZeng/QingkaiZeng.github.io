@@ -23,8 +23,8 @@ My current focus include several key areas: NLP with Structural Knowledge, NLP f
 Mentoring & Collaborating
 ======
 * [Xianrui Zhong](https://xianruizhong.github.io/), UIUC. We work on RAG with Structural Knowledge.
-* [Zehong Wang](https://zehong-wang.github.io/), University of Notre Dame. We work on Memory Mechanism of LLM.
-* [Mengxia Yu](https://scholar.google.com/citations?user=9d9qJt8AAAAJ&hl=en), University of Notre Dame.  We work on LLM reasoning.
+* [Zehong Wang](https://zehong-wang.github.io/), University of Notre Dame. We work on Agentic LLM.
+* [Mengxia Yu](https://scholar.google.com/citations?user=9d9qJt8AAAAJ&hl=en), University of Notre Dame. We work on Agentic LLM.
 * [Bolian Li](https://lblaoke.github.io/), Purdue University. We work on LLM alignment.
 * [Yifan Wang](https://cacayaya.github.io/), Purdue University. We work on LLM alignment.
 * [Yanjin He](), Peking University. We work on science of LLM and mathematical reasoning.
