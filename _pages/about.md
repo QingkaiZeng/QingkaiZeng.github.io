@@ -27,7 +27,7 @@ Mentoring & Collaborating
 * [Mengxia Yu](https://scholar.google.com/citations?user=9d9qJt8AAAAJ&hl=en), University of Notre Dame. We work on Agentic LLM.
 * [Bolian Li](https://lblaoke.github.io/), Purdue University. We work on LLM alignment.
 * [Yifan Wang](https://cacayaya.github.io/), Purdue University. We work on LLM alignment.
-* [Yanjin He](), Peking University. We work on science of LLM and mathematical reasoning.
+* [Yanjin He](), Peking University. Our work on science of LLM has been published on EMNLP 2025.
 * [Yuyang Bai](https://leopoldwhite.github.io/), XJTU. Our works on taxonomy construction have been published on CIKM 2024 and ACL 2025.
 * [Zhenyu Wu](https://scholar.google.com/citations?user=5tVLNpYAAAAJ&hl=zh-CN), XJTU. Our works on mathematical reasoning have been published on EMNLP 2024 and ACL 2025.
 * [Zhaoxuan Tan](https://zhaoxuan.info/), University of Notre Dame. Our work on personalized LLM has been published on EMNLP 2024.
