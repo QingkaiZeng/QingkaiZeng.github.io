@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qingkai Zeng"
+title                    : "Qingkai Zeng (曾庆锴)"
 title_separator          : "-"
-name                     : &name "Qingkai Zeng"
-description              : &description "Ph.D. Student"
+name                     : &name "Qingkai Zeng (曾庆锴)"
+description              : &description "Assistant Professor @ Nankai University"
 url                      : https://QingkaiZeng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "QingkaiZeng/QingkaiZeng.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qingkai Zeng"
+  name             : "Qingkai Zeng (曾庆锴)"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Scientist in Amazon"
-  location         : "Seattle, WA"
-  employer         :
+  bio              : "Assistant Professor @ Nankai University"
+  location         : "TBD"
+  employer         : "Nankai University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Z9R_5-wAAAAJ&hl=en&oi=ao"
-  email            : "qzeng@nd.edu"
+  email            : "qzengnkcs@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
