@@ -62,7 +62,7 @@ Recent Publications
 * **Qingkai Zeng**, Yuyang Bai, Zhaoxuan Tan, Zhenyu Wu, Shangbin Feng, Meng Jiang. CodeTaxo: Enhancing Taxonomy Expansion with Limited
 Examples via Code Language Prompts, Findings of Annual Meetings of the Association for Computational Linguistics (**ACL**), 2025. \[[PDF](https://www.arxiv.org/pdf/2408.09070)\] \[[Code](https://github.com/QingkaiZeng/CodeTaxo-Pub)\]
 
-* **Qingkai Zeng**, Yuyang Bai, Zhaoxuan Tan, Shangbin Feng, Zhenwen Liang, Zhihan Zhang, Meng Jiang. Chain-of-Layer: Iteratively Prompting Large Language Models for Taxonomy Induction from Limited Examples, In Proceedings of the ACM International Conference on Information & Knowledge Management (**CIKM**). \[[PDF](https://arxiv.org/pdf/2402.07386.pdf)\] \[[Code](https://github.com/QingkaiZeng/Chain-of-Layer)\]
+* **Qingkai Zeng**, Yuyang Bai, Zhaoxuan Tan, Shangbin Feng, Zhenwen Liang, Zhihan Zhang, Meng Jiang. Chain-of-Layer: Iteratively Prompting Large Language Models for Taxonomy Induction from Limited Examples, In Proceedings of the ACM International Conference on Information & Knowledge Management (**CIKM**), 2024. \[[PDF](https://arxiv.org/pdf/2402.07386.pdf)\] \[[Code](https://github.com/QingkaiZeng/Chain-of-Layer)\]
   
 * **Qingkai Zeng**, Zhihan Zhang, Jinfeng Lin, Meng Jiang. Completing Taxonomies with Relation-Aware Mutual Attentions, In the Workshop on Mining and Learning with Graphs (**MLG**) in conjunction with the ACM SIGKDD international conference on Knowledge discovery and data mining (**KDD**), 2023. \[[PDF](https://www.mlgworkshop.org/2023/papers/MLG__KDD_2023_paper_10.pdf)\]
 
