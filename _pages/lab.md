@@ -18,6 +18,22 @@ TBD
         <img src="/images/img/students/SKILL-ROBOT.png" alt="SKILLL">
         <p><a href="">SKILL</a><br>(2026 – )</p>
     </div>
+    <div class="student-card">
+        <img src="/images/img/students/SKILL-ROBOT.png" alt="SKILLL">
+        <p><a href="">SKILL</a><br>(2026 – )</p>
+    </div>
+    <div class="student-card">
+        <img src="/images/img/students/SKILL-ROBOT.png" alt="SKILLL">
+        <p><a href="">SKILL</a><br>(2026 – )</p>
+    </div>
+    <div class="student-card">
+        <img src="/images/img/students/SKILL-ROBOT.png" alt="SKILLL">
+        <p><a href="">SKILL</a><br>(2026 – )</p>
+    </div>
+    <div class="student-card">
+        <img src="/images/img/students/SKILL-ROBOT.png" alt="SKILLL">
+        <p><a href="">SKILL</a><br>(2026 – )</p>
+    </div>
 </div>
 
 ## Master Students

@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+[[Google Scholar](https://scholar.google.com/citations?user=Z9R_5-wAAAAJ&hl=en)] (\* Equal Contribution)
+
+2025
+======
+* \[J4\] Guangyu Meng, **Qingkai Zeng**, John P Lalor, Hong Yu. A Psychology-based Unified Dynamic Framework for Curriculum Learning, Computational Linguistics. \[[PDF]()\] 
+
 2024
 ======
 * \[C20\] **Qingkai Zeng**, Yuyang Bai, Zhaoxuan Tan, Zhenyu Wu，Shangbin Feng, Meng Jiang. CodeTaxo: Enhancing Taxonomy Expansion with Limited
@@ -16,7 +22,7 @@ Examples via Code Language Prompts, arXiv preprint 	arXiv:2408.09070 (2024). \[[
 
 * \[C19\] **Qingkai Zeng**, Yuyang Bai, Zhaoxuan Tan, Shangbin Feng, Zhenwen Liang, Zhihan Zhang, Meng Jiang. Chain-of-Layer: Iteratively Prompting Large Language Models for Taxonomy Induction from Limited Examples, In Proceedings of the ACM International Conference on Information & Knowledge Management (**CIKM**), 2024. \[[PDF](https://arxiv.org/pdf/2402.07386.pdf)\]
 
-* \[C18\] Zhaoxuan Tan, **Qingkai Zeng**, Yijun Tian, Zheyuan Liu, Bin Yin, Meng Jiang. Democratizing Large Language Models via Personalized Parameter-Efficient Fine-tuning, arXiv preprint arXiv:2402.04401 (2024). \[[PDF](https://arxiv.org/pdf/2402.04401.pdf)\]
+* \[C18\] Zhaoxuan Tan, **Qingkai Zeng**, Yijun Tian, Zheyuan Liu, Bin Yin, Meng Jiang. Democratizing Large Language Models via Personalized Parameter-Efficient Fine-tuning, In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2024. \[[PDF](https://arxiv.org/pdf/2402.04401.pdf)\]
 
 * \[C17\] Yifan Ding, Amrit Poudel, **Qingkai Zeng**, Tim Weninger, Balaji Veeramani, Sanmitra Bhattacharya. EntGPT: Linking Generative Large Language Models with Knowledge Bases, arXiv preprint arXiv:2402.06738 (2024). \[[PDF](https://arxiv.org/pdf/2402.06738.pdf)\]
 
