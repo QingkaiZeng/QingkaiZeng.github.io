@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the [College of Computer Science](https://cc.nankai.edu.cn/) at the [Nankai University](https://www.nankai.edu.cn/). Prior to joining Nankai University, I spent a rewarding year as a Postdoctoral Scientist at Amazon working in Dr. Xiaowei Chen’s team. During this time, I also worked closely with Professors [Han Zhao](https://hanzhaoml.github.io/) at UIUC, and [Sheng Wang](https://homes.cs.washington.edu/~swang/) at the University of Washington on developing large language models for seller-domain tasks. Before that, I received my Ph.D. degree in Computer Science and Engineering at the [University of Notre Dame](https://cse.nd.edu), advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). I also hold a Master’s degree in Electrical and Computer Engineering from [UIUC](https://ece.illinois.edu) and a Bachlor degree from Sun Yat-sen University. 
+I am an Associate Professor in the [College of Computer Science](https://cc.nankai.edu.cn/) at the [Nankai University](https://www.nankai.edu.cn/). Prior to joining Nankai University, I spent a rewarding year as a Postdoctoral Scientist at Amazon working in Dr. Xiaowei Chen’s team. During this time, I also worked closely with Professors [Han Zhao](https://hanzhaoml.github.io/) at UIUC, and [Sheng Wang](https://homes.cs.washington.edu/~swang/) at the University of Washington on developing large language models for seller-domain tasks. Before that, I received my Ph.D. degree in Computer Science and Engineering at the [University of Notre Dame](https://cse.nd.edu), advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). I also hold a Master’s degree in Electrical and Computer Engineering from [UIUC](https://ece.illinois.edu) and a Bachlor degree from Sun Yat-sen University. 
 
 Research Interest
 ======
@@ -22,10 +22,10 @@ My current focus include several key areas: NLP with Structural Knowledge, NLP f
 
 Mentoring & Collaborating
 ======
-* [Zehong Wang](https://zehong-wang.github.io/), University of Notre Dame. We work on Agentic LLM.
+* [Zehong Wang](https://zehong-wang.github.io/), University of Notre Dame. Our work on LLM personalization has been published on ACL 2026.
 * [Mengxia Yu](https://scholar.google.com/citations?user=9d9qJt8AAAAJ&hl=en), University of Notre Dame. We work on Agentic LLM.
-* [Bolian Li](https://lblaoke.github.io/), Purdue University. We work on LLM alignment.
-* [Yifan Wang](https://cacayaya.github.io/), Purdue University. We work on LLM alignment.
+* [Bolian Li](https://lblaoke.github.io/), Purdue University. Our work on LLM alignment has been published in ICLR 2026.
+* [Yifan Wang](https://cacayaya.github.io/), Purdue University. Our work on LLM alignment has been published in ICLR 2026.
 * [Yanjin He](), Peking University. Our work on science of LLM has been published on EMNLP 2025.
 * [Yuyang Bai](https://leopoldwhite.github.io/), XJTU. Our works on taxonomy construction have been published on CIKM 2024 and ACL 2025.
 * [Zhenyu Wu](https://scholar.google.com/citations?user=5tVLNpYAAAAJ&hl=zh-CN), XJTU. Our works on mathematical reasoning have been published on EMNLP 2024 and ACL 2025.
